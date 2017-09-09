@@ -157,7 +157,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Skim: <a href="http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf" target="_blank">Opinion Mining and Sentiment Analysis</a> (Pang and Lee 2008) - focus on Chapters 1-4
   <li>Read: <a href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/" target="_blank">Understanding Convolutional Neural Networks for NLP</a>
   <li>Read: <a href="https://arxiv.org/abs/1408.5882" target="_blank">Convolutional Neural Networks for Sentence Classification</a>
-  </ul></td>     
+  </ul><a href="https://docs.google.com/presentation/d/11JjkNwWK06bkdwwLNx7jKOu-b2l1fCjNysIguuM_h_o/edit?usp=sharing">[Slides]</a></td>     
 </tr>
 <tr><!--- TF and Info Theory Assignment -->
   <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
