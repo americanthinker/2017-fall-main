@@ -191,17 +191,6 @@ We'll update the table below with assignments as they become available, as well 
   <a href="https://docs.google.com/presentation/d/1iHS3Kj_ekxXcTZctxlyW0t8ofbbKMvq8bk_VTeaTTxw/preview" target="_blank">[Slides]</a> <a href="../materials/week2/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a>
   </td>
 </tr>
-<tr><!--- Project Proposal -->
-  <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
-  <br>due&nbsp;September&nbsp;21</td>
-  <td></td>
-  <td></td>
-  <td><strong><a href="../project" target="_blank">Final Project Guidelines</a></strong>
-  <p>
-  <p><a href="https://docs.google.com/presentation/d/1wxvIPmeuB7-5OMjFNoSeZ5Isb832cgZH6E4_DZOtk8g/edit?slide=id.g1c442da208_0_86" target="_blank">[Project Overview / Topic Slides]</a>
-  <br><a href="https://piazza.com/class/iwhnzw9npj5652?cid=266" target="_blank">[Note on LDC Corpora Access]</a>
-  </td>
-</tr>
 <tr><!--- Distributed representation. -->
   <td><strong>Week&nbsp;4</strong><br>(September&nbsp;22&nbsp;-&nbsp;28)</td>
   <td>Clusters and Distributions</td>
@@ -283,6 +272,17 @@ We'll update the table below with assignments as they become available, as well 
   <a href="../assignment/a3" target="_blank">Assignment 3</a>
   <p>
   <p><em>Note: this is a somewhat shorter assignment than usual.</em>
+  </td>
+</tr>
+<tr><!--- Project Proposal -->
+  <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
+  <br>due&nbsp;October&nbsp;12</td>
+  <td></td>
+  <td></td>
+  <td><strong><a href="../project" target="_blank">Final Project Guidelines</a></strong>
+  <p>
+  <p><a href="https://docs.google.com/presentation/d/1wxvIPmeuB7-5OMjFNoSeZ5Isb832cgZH6E4_DZOtk8g/edit?slide=id.g1c442da208_0_86" target="_blank">[Project Overview / Topic Slides]</a>
+  <br><a href="https://piazza.com/class/iwhnzw9npj5652?cid=266" target="_blank">[Note on LDC Corpora Access]</a>
   </td>
 </tr>
 <tr><!--- POS Tagging -->

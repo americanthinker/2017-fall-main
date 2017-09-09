@@ -1,7 +1,5 @@
 # Final Project Guidelines
 
-## Note: dates are still from the summer semester.  We'll get these updated soon!  The project will remain very similar in form, so you're welcome to start thinking about it...
-
 In addition to programming assignments, students will complete a final project that represents a significant implementation and/or application of NLP techniques. Here’s what to expect:
 - You can work on the project in a group of up to 3 students. Solo projects are also fine, but we strongly encourage you to collaborate.  While we expect high _quality_ of work from all groups, we expect a higher _quantity_ of work from teams with more members.
 - The project can be on anything within the scope of the class, although it need not be something covered explicitly in lecture.
