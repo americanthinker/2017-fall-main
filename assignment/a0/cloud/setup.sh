@@ -9,7 +9,7 @@ pushd ${HOME}
 sudo apt-get update
 sudo apt-get upgrade
 
-ANACONDA_INSTALLER="Anaconda2-4.3.1-Linux-x86_64.sh"
+ANACONDA_INSTALLER="Anaconda2-4.4.0-Linux-x86_64.sh"
 wget "https://repo.continuum.io/archive/$ANACONDA_INSTALLER"
 bash "$ANACONDA_INSTALLER"
 
@@ -22,4 +22,5 @@ ${HOME}/anaconda2/bin/jupyter notebook --generate-config
 
 # Copy Jupyter config
 popd
+mkdir ${HOME}/.jupyter
 cp -v $(dirname $0)/support/jupyter_notebook_config.py ${HOME}/.jupyter/jupyter_notebook_config.py
