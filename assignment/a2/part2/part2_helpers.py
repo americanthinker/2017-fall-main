@@ -15,7 +15,7 @@ from sklearn.model_selection import KFold, ShuffleSplit, GridSearchCV
 ##
 # Helper functions for part 2 of assignment 2.
 # These are the same functions we defined in the week 3 demo notebook
-# (materials/week3/embeddings.ipynb); we're defining them in a separate file
+# (materials/week4/embeddings.ipynb); we're defining them in a separate file
 # here for to avoid cluttering the notebook.
 
 def sents_to_tokens(sents, vocab):

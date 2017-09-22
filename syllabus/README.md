@@ -208,7 +208,7 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/" target="_blank">How Vector Space Mathematics Reveals the Hidden Sexism in Language</a> (and the <a href="http://arxiv.org/abs/1607.06520" target="_blank">original paper</a>)
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/1McZwQqc5PQs5JsyoYI2SgzlBHsZCxiEm175bCWmR5F4/edit#slide=id.p" target="_blank">[Slides]</a> <a href="../materials/week3/embeddings.ipynb" target="_blank">[Word&nbsp;Embeddings&nbsp;Notebook]</a> <a href="http://projector.tensorflow.org/" target="_blank">[TensorFlow&nbsp;Embedding&nbsp;Projector]</a>
+  <a href="https://docs.google.com/presentation/d/1McZwQqc5PQs5JsyoYI2SgzlBHsZCxiEm175bCWmR5F4/edit#slide=id.p" target="_blank">[Slides]</a> <a href="../materials/week4/embeddings.ipynb" target="_blank">[Word&nbsp;Embeddings&nbsp;Notebook]</a> <a href="http://projector.tensorflow.org/" target="_blank">[TensorFlow&nbsp;Embedding&nbsp;Projector]</a>
   </td>
 </tr>
 <tr><!--- Neural language models -->
