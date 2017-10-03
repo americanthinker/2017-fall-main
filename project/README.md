@@ -57,6 +57,8 @@ You must include four references to relevant papers for the technique and/or dat
 - [NIPS](https://nips.cc/Conferences/2015) and [ICML](http://icml.cc/2016/) are the top machine learning conferences; these are good places to look if you want to use neural networks.
 - [Google Scholar](https://scholar.google.com/) and the [arXiv](https://arxiv.org/) are great to find specific papers.
 
+If you are not familiar with reading academic papers, here are the [slides](https://docs.google.com/presentation/d/1wDbBaYhaxix82QjbU9_-g9TG0ZlI-jCgi-zlYaZkyNg/edit?usp=sharing) that we covered in the paper reading groups with some tips and tricks on both how to read an academic paper and how to do a literature search. Following these tips can save you hours of times from reading bad or irrelevant papers.
+
 This year’s NLP conferences might be good for inspiration as well, or if you just want a sense of what people in the field are working on: [NAACL](http://aclweb.org/anthology/N/N16/), [ACL](http://aclweb.org/anthology/P/P16/), [EMNLP](http://aclweb.org/anthology/D/D16/).
 
 Please send your proposal to mids-nlp-instructors@googlegroups.com, either as a PDF or (preferably) a Google Doc. If the latter, we'll provide feedback as in-line comments, which can be more convenient than an email thread.  
