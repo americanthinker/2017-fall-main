@@ -59,6 +59,8 @@ You must include four references to relevant papers for the technique and/or dat
 
 This year’s NLP conferences might be good for inspiration as well, or if you just want a sense of what people in the field are working on: [NAACL](http://aclweb.org/anthology/N/N16/), [ACL](http://aclweb.org/anthology/P/P16/), [EMNLP](http://aclweb.org/anthology/D/D16/).
 
+For more tips on searching the literature and reading NLP papers, the slides from the [paper sessions](https://piazza.com/class/j6idloirx4bg4?cid=170) may be a helpful reference: [Ian's slides](https://docs.google.com/presentation/d/1joG07orXnTQAeAicTzdf0fFk1VMPaq4-PtW_tJwwJCg/preview) and [Arathi's slides](https://docs.google.com/presentation/d/1wDbBaYhaxix82QjbU9_-g9TG0ZlI-jCgi-zlYaZkyNg/preview).
+
 Please send your proposal to mids-nlp-instructors@googlegroups.com, either as a PDF or (preferably) a Google Doc. If the latter, we'll provide feedback as in-line comments, which can be more convenient than an email thread.  
 _Please no Microsoft Word documents!_
 
