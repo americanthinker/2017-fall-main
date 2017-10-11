@@ -274,6 +274,25 @@ We'll update the table below with assignments as they become available, as well 
   <p><em>Note: this is a somewhat shorter assignment than usual.</em>
   </td>
 </tr>
+<tr><!--- Paper Sessions  -->
+  <td><strong><a href="https://piazza.com/class/j6idloirx4bg4?cid=170" target="_blank">Paper Sessions</a></strong>
+  <br>October 2, 5, and 9</td>
+  <td>Reading the NLP Literature</td>
+  <td><ul>
+  <li>Finding papers
+  <li>Reading papers
+  <li>In-depth critique
+  </ul></td>
+  <td><ul>
+  <li>Oct 2: <a href="http://www.aclweb.org/anthology/Q/Q17/Q17-1010.pdf" target="_blank">Enriching Word Vectors with Subword Information</a>
+  <li>Oct 5: <a href="https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf" target="_blank">Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank</a>
+  <li>Oct 9: <a href="https://web.stanford.edu/~jurafsky/pubs/linguistic_change_lifecycle.pdf" target="_blank">No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities</a>
+  </ul>
+  <p>
+  <p><a href="https://docs.google.com/presentation/d/1wDbBaYhaxix82QjbU9_-g9TG0ZlI-jCgi-zlYaZkyNg/preview" target="_blank">[Arathi's Slides]</a>
+  <a href="https://docs.google.com/presentation/d/1joG07orXnTQAeAicTzdf0fFk1VMPaq4-PtW_tJwwJCg/preview" target="_blank">[Ian's Slides]</a>
+  </td>
+</tr>
 <tr><!--- Project Proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
   <br>due&nbsp;October&nbsp;12</td>
