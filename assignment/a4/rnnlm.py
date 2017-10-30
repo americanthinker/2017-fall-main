@@ -93,8 +93,7 @@ class RNNLM(object):
             # Number of samples for sampled softmax.
             self.softmax_ns = softmax_ns
 
-            self.learning_rate_ = tf.placeholder_with_default(
-                0.1, [], name="learning_rate")
+            self.learning_rate_ = tf.placeholder(tf.float32, [], name="learning_rate")
 
             # For gradient clipping, if you use it.
             # Due to a bug in TensorFlow, this needs to be an ordinary python
