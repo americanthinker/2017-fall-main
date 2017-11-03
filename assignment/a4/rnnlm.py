@@ -155,7 +155,8 @@ class RNNLM(object):
         self.final_h_ = None
 
         # Output logits, which can be used by loss functions or for prediction.
-        # Overwrite this with an actual Tensor of shape [batch_size, max_time]
+        # Overwrite this with an actual Tensor of shape
+        # [batch_size, max_time, V].
         self.logits_ = None
 
         # Should be the same shape as inputs_w_
@@ -247,7 +248,7 @@ class RNNLM(object):
 
         Hint: use tf.multinomial, along with a couple of calls to tf.reshape
         """
-        # Replace with a Tensor of shape [batch_size, max_time, 1]
+        # Replace with a Tensor of shape [batch_size, max_time, num_samples = 1]
         self.pred_samples_ = None
 
         #### YOUR CODE HERE ####
