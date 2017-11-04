@@ -1,6 +1,6 @@
 # Assignment 5: Part of Speech and Parsing
 
-## Due: Sunday, December 3rdd, 11:59p Pacific
+## Due: Sunday, December 3rd, 11:59p Pacific
 
 This assignment consists of two parts:
 
