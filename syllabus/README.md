@@ -436,7 +436,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Week 7-10 Assignment -->
   <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
-  <br>due&nbsp;November&nbsp;29</td>
+  <br>due&nbsp;December&nbsp;3</td>
   <td><strong>Tagging and Parsing</strong></td>
   <td><ul>
   <li>HMMs / Forward-Backward and Viterbi
