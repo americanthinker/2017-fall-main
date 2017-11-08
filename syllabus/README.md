@@ -387,6 +387,16 @@ We'll update the table below with assignments as they become available, as well 
   <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[Interactive CKY Demo]</a>
   </td>
 </tr>
+<tr><!--- Project Milestone -->
+  <td><strong><a href="../project/#milestone" target="_blank">Project&nbsp;Milestone</a></strong>
+  <br>due&nbsp;November&nbsp;16</td>
+  <td></td>
+  <td></td>
+  <td><strong><a href="../project/#milestone" target="_blank">Final Project Guidelines</a></strong>
+  <p>
+  <br><a href="https://piazza.com/class/iwhnzw9npj5652?cid=266" target="_blank">[Note on LDC Corpora Access]</a>
+  </td>
+</tr>
 <tr><!--- Information Retrieval -->
   <td><strong>Week&nbsp;11-1</strong><br>(November&nbsp;17&nbsp;-&nbsp;23)</td>
   <td>Information Retrieval</td>
@@ -422,16 +432,6 @@ We'll update the table below with assignments as they become available, as well 
   </ul>
   <p>
   <a href="https://docs.google.com/presentation/d/1wGRZUQjr_0HjUupvmsypBYPA6pltrcLrKq_MpEaAqHQ/edit#slide=id.p" target="_blank">[Slides]</a>
-  </td>
-</tr>
-<tr><!--- Project Milestone -->
-  <td><strong><a href="../project/#milestone" target="_blank">Project&nbsp;Milestone</a></strong>
-  <br>due&nbsp;November&nbsp;16</td>
-  <td></td>
-  <td></td>
-  <td><strong><a href="../project/#milestone" target="_blank">Final Project Guidelines</a></strong>
-  <p>
-  <br><a href="https://piazza.com/class/iwhnzw9npj5652?cid=266" target="_blank">[Note on LDC Corpora Access]</a>
   </td>
 </tr>
 <tr><!--- Week 7-10 Assignment -->
