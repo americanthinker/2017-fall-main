@@ -9,7 +9,7 @@
 
 ## Course Overview
 Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. This course is a broad introduction to linguistic phenomena and our attempts to analyze them with machine learning. We will cover a wide range of concepts with a focus on practical applications such as information extraction, machine translation, sentiment analysis, and summarization.
-   
+
 **Prerequisites:**
 * Python: All assignments will be in Python using Jupyter notebooks, NumPy, and TensorFlow.
 * Time:  There are 5-6 substantial assignments in this course as well as a term project.  Make sure you give yourself enough time to be successful! In particular, you may be in for a rough semester if you take both this and any of 210 (Capstone), 261, or 271 :)
@@ -80,8 +80,10 @@ If you run into a more serious issue that will affect your ability to complete t
 
 ## Course Resources
 We are not using any particular textbook for this course. We’ll list some relevant readings each week. Here are some general resources:
-* [Jurafsky and Martin: Speech and Language Processing](http://www.cs.colorado.edu/~martin/slp.html)
-* [NLTK Book](http://www.nltk.org/book/) accompanies NLTK (Natural Language ToolKit) and includes useful, practical descriptions (with python code) of basic concepts.
+* [Speech and Language Processing (2nd edition)](http://www.cs.colorado.edu/~martin/slp.html) (Jurafsky and Martin)
+* [Speech and Language Processing (3rd edition draft)](https://web.stanford.edu/~jurafsky/slp3/) (Jurafsky and Martin)
+* [NLTK Book](http://www.nltk.org/book/) - Accompanies NLTK (Natural Language ToolKit) and includes useful, practical descriptions (with python code) of basic concepts.
+* [Deep Learning](http://www.deeplearningbook.org/) (Goodfellow, Bengio, and Courville)
 
 We’ll be posting materials to the course [GitHub repo](../../../).
 
@@ -130,7 +132,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="https://www.technologyreview.com/s/602094/ais-language-problem/" target="_blank">AI’s Language Problem (Technology Review)</a>
   <li><em>Optional:</em> <a href="http://www.newyorker.com/magazine/2007/04/16/the-interpreter-2" target="_blank">The Interpreter (New Yorker)</a>
   <li><em>Optional:</em> <a href="https://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" target="_blank">Introduction to Linguistic Typology</a>
-  </ul> 
+  </ul>
   <p>
   <a href="https://docs.google.com/presentation/d/1sAPpjXjGusb-tj_fUU0WCuq8AkxlxCAXIUULgAC0Rks/preview" target="_blank">[Slides]</a> <a href="../materials/week1/TensorFlow%20Tutorial.ipynb" target="_blank">[Tensorflow&nbsp;Intro&nbsp;notebook]</a>
   </td>
@@ -153,11 +155,11 @@ We'll update the table below with assignments as they become available, as well 
   <li>Aggregated sentiment applications
   <li>Convolutional neural networks (CNNs)
   </ul></td>
-  <td><ul>       
+  <td><ul>
   <li>Skim: <a href="http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf" target="_blank">Opinion Mining and Sentiment Analysis</a> (Pang and Lee 2008) - focus on Chapters 1-4
   <li>Read: <a href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/" target="_blank">Understanding Convolutional Neural Networks for NLP</a>
   <li>Read: <a href="https://arxiv.org/abs/1408.5882" target="_blank">Convolutional Neural Networks for Sentence Classification</a>
-  </ul><a href="https://docs.google.com/presentation/d/11JjkNwWK06bkdwwLNx7jKOu-b2l1fCjNysIguuM_h_o/edit?usp=sharing">[Slides]</a></td>     
+  </ul><a href="https://docs.google.com/presentation/d/11JjkNwWK06bkdwwLNx7jKOu-b2l1fCjNysIguuM_h_o/edit?usp=sharing">[Slides]</a></td>
 </tr>
 <tr><!--- TF and Info Theory Assignment -->
   <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
@@ -228,7 +230,7 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional / fun:</em> <a href="http://playground.tensorflow.org/" target="_blank">Tensorflow Playground</a>
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/126vh8zHrB-Gr_cZM9KHyZScHFWIRxzn8VctCzWVOvZM/edit#slide=id.g1c4e903410_1_0" target="_blank">[Slides]</a> 
+  <a href="https://docs.google.com/presentation/d/126vh8zHrB-Gr_cZM9KHyZScHFWIRxzn8VctCzWVOvZM/edit#slide=id.g1c4e903410_1_0" target="_blank">[Slides]</a>
   <p>
   <a href="../materials/week4/nplm.ipynb" target="_blank">[NPLM Notebook]</a>
   </td>
@@ -445,8 +447,8 @@ We'll update the table below with assignments as they become available, as well 
   <td>
   <a href="../assignment/a5" target="_blank">Assignment 5</a>
   <p><p>
-  <a href="https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log" target="_blank">[HMM Demo]</a> 
-  <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[CKY Demo]</a> 
+  <a href="https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log" target="_blank">[HMM Demo]</a>
+  <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[CKY Demo]</a>
   </td>
 </tr>
 <tr><!--- Week 12 -->
@@ -491,7 +493,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Integer linear programming (ILP) for optimal solutions
   <li>Evaluation of summaries
   </ul></td>
-  <td><ul>       
+  <td><ul>
   <li>Skim: <a href="https://www.cs.cmu.edu/~afm/Home_files/Das_Martins_survey_summarization.pdf" target="_blank">A Survey on Automatic Text Summarization</a> (Das and Martins, 2007)
   <li>Read: <a href="https://arxiv.org/pdf/1509.00685v2.pdf" target="_blank">A Neural Attention Model for Abstractive Sentence Summarization</a> (Rush et al. 2015)
   </ul>
