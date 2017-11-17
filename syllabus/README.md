@@ -400,7 +400,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Information Retrieval -->
-  <td><strong>Week&nbsp;11-1</strong><br>(November&nbsp;17&nbsp;-&nbsp;23)</td>
+  <td><strong>Week&nbsp;12-1</strong><br>(November&nbsp;24&nbsp;-&nbsp;30)</td>
   <td>Information Retrieval</td>
   <td><ul>
   <li>Building a Search Index
@@ -419,7 +419,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Week 11 -->
-  <td><strong>Week&nbsp;11-2</strong><br>(November&nbsp;17&nbsp;-&nbsp;23)</td>
+  <td><strong>Week&nbsp;12-2</strong><br>(November&nbsp;24&nbsp;-&nbsp;30)</td>
   <td>Entities</td>
   <td><ul>
   <li>From syntax to semantics
@@ -452,7 +452,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Week 12 -->
-  <td><strong>Week&nbsp;12</strong><br>(November&nbsp;24&nbsp;-&nbsp;November&nbsp;30)</td>
+  <td><strong>Week&nbsp;13 - 1</strong><br>(December&nbsp;1&nbsp;-&nbsp;7)</td>
   <td>Machine Translation I</td>
   <td><ul>
   <li>Word-based translation models
@@ -468,7 +468,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Week 13 -->
-  <td><strong>Week&nbsp;13</strong><br>(December&nbsp;1&nbsp;-&nbsp;7)</td>
+  <td><strong>Week&nbsp;13 - 2</strong><br>(December&nbsp;1&nbsp;-&nbsp;7)</td>
   <td>Machine Translation II</td>
   <td><ul>
   <li>Phrase-based translation
@@ -484,7 +484,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Week 14 -->
-  <td><strong>Week&nbsp;14</strong><br>(December&nbsp;8&nbsp;-&nbsp;15)</td>
+  <td><strong>Week&nbsp;14</strong><br>(December&nbsp;8&nbsp;-&nbsp;14)</td>
   <td>Summarization</td>
   <td><ul>
   <li>Single- vs. multi-document summarization
@@ -503,7 +503,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Project Presentations -->
   <td><strong><a href="../project/#presentations" target="_blank">Project&nbsp;Presentations</a></strong>
-  <br>in-class December&nbsp;16-22</td>
+  <br>in-class December&nbsp;15-19</td>
   <td></td>
   <td></td>
   <td><strong><a href="../project/#presentations" target="_blank">Final Project Guidelines</a></strong>
