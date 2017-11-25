@@ -83,7 +83,10 @@ For the milestone, your writeup should have sections similar to the following, i
 
 The easiest way to write your report is LaTeX; the standard ACL template is available [here](http://acl2015.org/call_for_papers.html) (or, on Overleaf [here](https://www.overleaf.com/latex/templates/template-for-2-columns-acl-proceedings-style/bdxxrbqzsmpv#.WGV0frYrLdR)). However, you’re welcome to typeset in Microsoft Word or IPython/Jupyter Notebooks as well.
 
-You should also share your code with us via GitHub.  Just include a link to your GitHub.
+You should also share your code with us via GitHub.  Just include a link to your GitHub, and be sure to add the instructors as collaborators so they can view it! Our GitHub usernames are:
+- James: `jameskunz`
+- Melody: `pkipsy`
+- Ian: `iftenney`
 
 Please send your write-up in PDF format to mids-nlp-instructors@googlegroups.com.
 
